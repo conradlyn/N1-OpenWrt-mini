@@ -97,7 +97,7 @@ jobs:
         KERNEL_VERSION_NAME: 5.15.158
         PACKAGE_SOC: diy
         GZIP_IMGS: .xz
-        SCRIPT_DIY_PATH: N1/mk_s905d_n1.sh
+        SCRIPT_DIY_PATH: N1/mk_s905d_n16.1.sh
         WHOAMI: nantayo
         SW_FLOWOFFLOAD: 0
         SFE_FLOW: 0
